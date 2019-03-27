@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af7c15c5-0e48-47ac-866a-2dbec1ba2acb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Collection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Collection/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Collection/com/company/FirstTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Collection/com/company/SecondTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Collection/com/company/ThirdTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FirstTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/SecondTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/ThirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/JavaClassesTaskA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/out/production/JavaClassesTaskA/com/company/Faculty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/out/production/JavaClassesTaskA/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/out/production/JavaClassesTaskA/com/company/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/src/com/company/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskA/src/com/company/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/JavaClassestaskB.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Accessory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Bouquet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Flower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Rose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Sparkles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Sticker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Tape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Tulip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/out/production/JavaClassestaskB/com/company/Violet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Accessory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Bouquet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Rose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Sparkles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Sticker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Tape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Tulip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaClassesTaskB/src/com/company/Violet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/JavaExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/out/production/JavaExceptions/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaExceptions/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/JavaFundamentalsArrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/out/production/JavaFundamentalsArrays/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsArrays/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/JavaFundamentalsDataTypes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/out/production/JavaFundamentalsDataTypes/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsDataTypes/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/Tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/out/production/Tasks/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsGettinStarted/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/JavaFundamentalsOperators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/out/production/JavaFundamentalsOperators/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFundamentalsOperators/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/JavaThreads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/java/util/annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/out/production/JavaThreads/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/out/production/JavaThreads/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/out/production/JavaThreads/com/company/Parking.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaThreads/src/com/company/Parking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/hellowebdriver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/src/test/java/BringItOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/src/test/java/HelloWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/src/test/java/HurtMePlenty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/src/test/java/ICanWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/target/test-classes/BringItOn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/target/test-classes/HelloWebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/target/test-classes/HurtMePlenty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellowebdriver/target/test-classes/ICanWin.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/FirstTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/ThirdTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/SecondTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collection.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Firsttask/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FirstTask/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/FirstTask/FirstTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SecondTask/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SecondTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThirdTask/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThirdTask/Car.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThirdTask/Parking.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThirdTask/ThirdTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ThirdTask.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="234" />
+    <option name="y" value="1" />
+    <option name="width" value="1400" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Collection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Collection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553679303421" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThirdTask">
+    <configuration name="FirstTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FirstTask" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Firsttask.Main" />
+      <module name="Collection" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThirdTask.Parking" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SecondTask" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ThirdTask" />
+      <module name="Collection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Parking" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FirstTask" />
+      <item itemvalue="Application.SecondTask" />
+      <item itemvalue="Application.ThirdTask" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThirdTask" />
+        <item itemvalue="Application.Parking" />
+        <item itemvalue="Application.SecondTask" />
+        <item itemvalue="Application.FirstTask" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af7c15c5-0e48-47ac-866a-2dbec1ba2acb" name="Default Changelist" comment="" />
+      <created>1553589254175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553589254175</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="234" y="1" width="1400" height="1046" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThirdTask/Parking.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThirdTask/Car.java" />
+    <entry file="file://$PROJECT_DIR$/Collection.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/SecondTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/FirstTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ThirdTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
